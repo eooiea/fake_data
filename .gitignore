@@ -1,6 +1,7 @@
 # Logs and Reports
 log/
 md/
+result/
 
 # Python
 __pycache__/
